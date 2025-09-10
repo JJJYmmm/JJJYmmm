@@ -1,7 +1,6 @@
-# 👋 Hello, I'm JJJYmmm
+# 👋 Hi, I’m JJJYmmm
 
-🔍 **Interest**: Passionate about **Multimodal Large Language Models** 🤖✨  
-🎓 **Education**: BSc from CSE, HUST.  
-✍️ **Blog**: https://jjjymmm.cn. 
+🧠 **Focus**: Building Multimodal LLMs — turning pixels into words 🤖  
 
-![JJJYmmm's github stats](https://github-readme-stats.vercel.app/api?username=JJJYmmm&show_icons=true)
+🎓 **In Pursuit**:  
+M.S. @ VIPL, ICT, CAS | B.Eng. @ CSE, HUST
