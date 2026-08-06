@@ -1,4 +1,4 @@
 Hi, I'm JJJYmmm. 
 
 I expect to graduate in June 2027. My research interests lie in vision-language pre-training, multimodal agent harness, and deployable robotic systems. 
-Feel free to reach out! 1650672829 [at] qq [dot] com
+Feel free to reach out! 1650675829 [at] qq [dot] com
